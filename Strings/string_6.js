@@ -1,0 +1,3 @@
+console.log("Each constructor is a function that has a property named \"protypez\" that is used to implement prototype-based inheritance and shared properties.");
+console.log("An object\'s prototype chain should have finite length.'")
+console.log(`The proper way to cause a line terminato code point to be part of the String value of a string literal is to use an escape sequece such as zzn orzzu000A`)
